@@ -1,0 +1,25 @@
+{
+  "_fv": 13,
+  "_type": "potion",
+  "definition": {
+    "name": "Зелье стальной кожи",
+    "effectName": "Стальная плоть",
+    "icon": "compressed_obsidian.png",
+    "color": {
+      "value": -13434778,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": false,
+    "isBenefitical": false,
+    "registerPotionType": true,
+    "renderStatusInInventory": false,
+    "renderStatusInHUD": false,
+    "onStarted": {
+      "name": "ObsiPotionPotionStartedapplied"
+    },
+    "onActiveTick": {
+      "name": "ObsiPotionOnPotionActiveTick"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+
+[[mods]]
+modId="more_useful_obsidian"
+version="1.7"
+displayName="More Useful Obsidian"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net"
+logoFile="logo.png"
+authors="LeoCrypt, MCreator, TOR1MA"
+description='''
+Вам не казалось, что обсидиан немножко бесполезный? Чтож, этот мод делает обсидиан полезнее!
+'''
+
+[[dependencies.more_useful_obsidian]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

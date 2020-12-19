@@ -1,0 +1,42 @@
+{
+  "group": "more_useful_obsidian",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:cocoa_beans"
+    },
+    "1": {
+      "item": "minecraft:wheat"
+    },
+    "2": {
+      "item": "minecraft:cocoa_beans"
+    },
+    "3": {
+      "item": "minecraft:wheat"
+    },
+    "4": {
+      "item": "more_useful_obsidian:obsi_gem"
+    },
+    "5": {
+      "item": "minecraft:wheat"
+    },
+    "6": {
+      "item": "minecraft:cocoa_beans"
+    },
+    "7": {
+      "item": "minecraft:wheat"
+    },
+    "8": {
+      "item": "minecraft:cocoa_beans"
+    }
+  },
+  "result": {
+    "item": "more_useful_obsidian:obsi_cookie",
+    "count": 4
+  }
+}

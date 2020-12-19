@@ -1,0 +1,39 @@
+{
+  "group": "more_useful_obsidian",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "more_useful_obsidian:obsidianplate"
+    },
+    "2": {
+      "item": "more_useful_obsidian:obsidianplate"
+    },
+    "3": {
+      "item": "more_useful_obsidian:obsidianplate"
+    },
+    "4": {
+      "item": "more_useful_obsidian:obsi_gem"
+    },
+    "5": {
+      "item": "more_useful_obsidian:obsidianplate"
+    },
+    "6": {
+      "item": "more_useful_obsidian:obsidianplate"
+    },
+    "7": {
+      "item": "more_useful_obsidian:obsidianplate"
+    },
+    "8": {
+      "item": "more_useful_obsidian:obsidianplate"
+    }
+  },
+  "result": {
+    "item": "more_useful_obsidian:obsidian_armor_chestplate",
+    "count": 1
+  }
+}

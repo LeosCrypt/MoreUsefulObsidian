@@ -1,0 +1,26 @@
+{
+  "_fv": 13,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "gem_cookie",
+    "customModelName": "Normal",
+    "name": "Кристальное печенье",
+    "rarity": "COMMON",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:MUO"
+    },
+    "stackSize": 16,
+    "nutritionalValue": 6,
+    "saturation": 0.3,
+    "eatingSpeed": 128,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": false,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}

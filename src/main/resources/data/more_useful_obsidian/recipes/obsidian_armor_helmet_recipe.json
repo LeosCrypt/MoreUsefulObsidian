@@ -1,0 +1,29 @@
+{
+  "group": "more_useful_obsidian",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "more_useful_obsidian:obsidianplate"
+    },
+    "1": {
+      "item": "more_useful_obsidian:obsidianplate"
+    },
+    "2": {
+      "item": "more_useful_obsidian:obsidianplate"
+    },
+    "3": {
+      "item": "more_useful_obsidian:obsidianplate"
+    },
+    "5": {
+      "item": "more_useful_obsidian:obsidianplate"
+    }
+  },
+  "result": {
+    "item": "more_useful_obsidian:obsidian_armor_helmet",
+    "count": 1
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "3",
+    "customModelName": "Normal",
+    "name": "Обсидиановый Топор",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:MUO"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 3,
+    "efficiency": 15.0,
+    "attackSpeed": 0.6,
+    "enchantability": 22,
+    "damageVsEntity": 14.0,
+    "usageCount": 1750,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:CompressedObsidian"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

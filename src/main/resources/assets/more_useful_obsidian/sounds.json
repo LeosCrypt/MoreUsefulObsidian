@@ -1,0 +1,11 @@
+{
+  "mysteryskulls-money": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "more_useful_obsidian:mystery_skulls_-_money_",
+        "stream": true
+      }
+    ]
+  }
+}

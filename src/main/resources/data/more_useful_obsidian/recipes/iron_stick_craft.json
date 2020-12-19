@@ -1,0 +1,20 @@
+{
+  "group": "more_useful_obsidian",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:iron_ingot"
+    },
+    "1": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "more_useful_obsidian:iron_stick",
+    "count": 1
+  }
+}

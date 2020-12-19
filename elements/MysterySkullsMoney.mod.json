@@ -1,0 +1,17 @@
+{
+  "_fv": 13,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "musicdisc",
+    "name": "Пластинка",
+    "description": "Mystery Skulls - Money",
+    "creativeTab": {
+      "value": "CUSTOM:MUO"
+    },
+    "music": {
+      "value": "CUSTOM:mysteryskulls-money"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "more_useful_obsidian",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:obsidian"
+    },
+    "1": {
+      "item": "minecraft:obsidian"
+    },
+    "2": {
+      "item": "minecraft:obsidian"
+    },
+    "3": {
+      "item": "minecraft:diamond"
+    },
+    "4": {
+      "item": "more_useful_obsidian:hammer"
+    },
+    "5": {
+      "item": "minecraft:diamond"
+    },
+    "6": {
+      "item": "minecraft:obsidian"
+    },
+    "7": {
+      "item": "minecraft:obsidian"
+    },
+    "8": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "result": {
+    "item": "more_useful_obsidian:compressed_obsidian",
+    "count": 2
+  }
+}

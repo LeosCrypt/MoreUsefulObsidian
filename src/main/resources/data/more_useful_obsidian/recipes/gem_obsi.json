@@ -1,0 +1,42 @@
+{
+  "group": "more_useful_obsidian",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:diamond"
+    },
+    "1": {
+      "item": "more_useful_obsidian:iron_stick"
+    },
+    "2": {
+      "item": "minecraft:diamond"
+    },
+    "3": {
+      "item": "more_useful_obsidian:iron_stick"
+    },
+    "4": {
+      "item": "more_useful_obsidian:bad_gem_obsi"
+    },
+    "5": {
+      "item": "more_useful_obsidian:iron_stick"
+    },
+    "6": {
+      "item": "minecraft:diamond"
+    },
+    "7": {
+      "item": "more_useful_obsidian:iron_stick"
+    },
+    "8": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "more_useful_obsidian:obsi_gem",
+    "count": 1
+  }
+}

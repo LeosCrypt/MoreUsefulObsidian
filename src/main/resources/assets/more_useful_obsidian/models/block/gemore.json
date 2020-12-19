@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "more_useful_obsidian:blocks/-1",
+    "up": "more_useful_obsidian:blocks/-1",
+    "north": "more_useful_obsidian:blocks/-1",
+    "east": "more_useful_obsidian:blocks/-1",
+    "south": "more_useful_obsidian:blocks/-1",
+    "west": "more_useful_obsidian:blocks/-1",
+    "particle": "more_useful_obsidian:blocks/-1"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "more_useful_obsidian:obsidian_sword"
+    },
+    "title": {
+      "translate": "advancements.customweapon.title"
+    },
+    "description": {
+      "translate": "advancements.customweapon.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "customweapon": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "more_useful_obsidian:obsidian_sword",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "more_useful_obsidian:custom_comp"
+}
